@@ -15,20 +15,20 @@ sudo apt install git
 
 ## Run Scripts
 
-chmod +x script1.sh
-./script1.sh
+chmod +x script01.sh
+./script01.sh
 
-chmod +x script2.sh
-./script2.sh
+chmod +x script02.sh
+./script02.sh
 
-chmod +x script3.sh
-./script3.sh
+chmod +x script03.sh
+./script03.sh
 
-chmod +x script4.sh
-./script4.sh logfile.txt
+chmod +x script04.sh
+./script04.sh logfile.txt
 
-chmod +x script5.sh
-./script5.sh
+chmod +x script05.sh
+./script05.sh
 
 ## Description
 
