@@ -10,7 +10,7 @@ Software- Git
 
 ## Setup
 
-Install Git:
+Installing Git:
 sudo apt install git
 
 ## Run Scripts
@@ -32,9 +32,9 @@ chmod +x script5.sh
 
 ## Description
 
-Script1: System info
-Script2: Package check
-Script3: Directory audit
-Script4: Log analysis
-Script5: Manifesto generator
+Script01: System info
+Script02: Package check
+Script03: Directory audit
+Script04: Log analysis
+Script05: Manifesto generator
 
